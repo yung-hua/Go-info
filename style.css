@@ -212,8 +212,11 @@ section.china-competition table th {
 
 section.china-competition table tr,
 td {
-    padding: 4px 6px;
+    padding: 6px 6px;
     border-collapse: collapse;
+    white-space: pre-wrap;
+    width: 10%;
+
 }
 
 section div.taiwan h3 {
